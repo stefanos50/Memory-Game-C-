@@ -10,4 +10,4 @@ You can change the theme of the game (by changing the background of the form , c
 
 For the hidden images it has to be a directory that includes 12 images.
 
-![](IMAGES/Screenshot2.png)
+![](IMAGES/Screenshot1.png)
