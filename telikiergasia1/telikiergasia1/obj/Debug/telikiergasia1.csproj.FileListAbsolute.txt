@@ -1,0 +1,32 @@
+C:\Users\StefanosPC\source\repos\telikiergasia1\telikiergasia1\bin\Debug\telikiergasia1.exe.config
+C:\Users\StefanosPC\source\repos\telikiergasia1\telikiergasia1\bin\Debug\telikiergasia1.exe
+C:\Users\StefanosPC\source\repos\telikiergasia1\telikiergasia1\bin\Debug\telikiergasia1.pdb
+C:\Users\StefanosPC\source\repos\telikiergasia1\telikiergasia1\obj\Debug\telikiergasia1.csprojAssemblyReference.cache
+C:\Users\StefanosPC\source\repos\telikiergasia1\telikiergasia1\obj\Debug\telikiergasia1.Form1.resources
+C:\Users\StefanosPC\source\repos\telikiergasia1\telikiergasia1\obj\Debug\telikiergasia1.Properties.Resources.resources
+C:\Users\StefanosPC\source\repos\telikiergasia1\telikiergasia1\obj\Debug\telikiergasia1.csproj.GenerateResource.cache
+C:\Users\StefanosPC\source\repos\telikiergasia1\telikiergasia1\obj\Debug\telikiergasia1.csproj.CoreCompileInputs.cache
+C:\Users\StefanosPC\source\repos\telikiergasia1\telikiergasia1\obj\Debug\telikiergasia1.exe
+C:\Users\StefanosPC\source\repos\telikiergasia1\telikiergasia1\obj\Debug\telikiergasia1.pdb
+C:\Users\stefanos-pc\source\repos\telikiergasia1\telikiergasia1\bin\Debug\telikiergasia1.exe.config
+C:\Users\stefanos-pc\source\repos\telikiergasia1\telikiergasia1\bin\Debug\telikiergasia1.exe
+C:\Users\stefanos-pc\source\repos\telikiergasia1\telikiergasia1\bin\Debug\telikiergasia1.pdb
+C:\Users\stefanos-pc\source\repos\telikiergasia1\telikiergasia1\obj\Debug\telikiergasia1.csprojAssemblyReference.cache
+C:\Users\stefanos-pc\source\repos\telikiergasia1\telikiergasia1\obj\Debug\telikiergasia1.Form1.resources
+C:\Users\stefanos-pc\source\repos\telikiergasia1\telikiergasia1\obj\Debug\telikiergasia1.Properties.Resources.resources
+C:\Users\stefanos-pc\source\repos\telikiergasia1\telikiergasia1\obj\Debug\telikiergasia1.csproj.GenerateResource.cache
+C:\Users\stefanos-pc\source\repos\telikiergasia1\telikiergasia1\obj\Debug\telikiergasia1.csproj.CoreCompileInputs.cache
+C:\Users\stefanos-pc\source\repos\telikiergasia1\telikiergasia1\obj\Debug\telikiergasia1.exe
+C:\Users\stefanos-pc\source\repos\telikiergasia1\telikiergasia1\obj\Debug\telikiergasia1.pdb
+C:\Users\stefanos-pc\source\repos\telikiergasia1\telikiergasia1\obj\Debug\telikiergasia1.Form2.resources
+C:\Users\stefa\Desktop\UniversityProjects\c# final projects\telikiergasia1\telikiergasia1\bin\Debug\telikiergasia1.exe.config
+C:\Users\stefa\Desktop\UniversityProjects\c# final projects\telikiergasia1\telikiergasia1\bin\Debug\telikiergasia1.exe
+C:\Users\stefa\Desktop\UniversityProjects\c# final projects\telikiergasia1\telikiergasia1\bin\Debug\telikiergasia1.pdb
+C:\Users\stefa\Desktop\UniversityProjects\c# final projects\telikiergasia1\telikiergasia1\obj\Debug\telikiergasia1.csprojAssemblyReference.cache
+C:\Users\stefa\Desktop\UniversityProjects\c# final projects\telikiergasia1\telikiergasia1\obj\Debug\telikiergasia1.Form1.resources
+C:\Users\stefa\Desktop\UniversityProjects\c# final projects\telikiergasia1\telikiergasia1\obj\Debug\telikiergasia1.Form2.resources
+C:\Users\stefa\Desktop\UniversityProjects\c# final projects\telikiergasia1\telikiergasia1\obj\Debug\telikiergasia1.Properties.Resources.resources
+C:\Users\stefa\Desktop\UniversityProjects\c# final projects\telikiergasia1\telikiergasia1\obj\Debug\telikiergasia1.csproj.GenerateResource.cache
+C:\Users\stefa\Desktop\UniversityProjects\c# final projects\telikiergasia1\telikiergasia1\obj\Debug\telikiergasia1.csproj.CoreCompileInputs.cache
+C:\Users\stefa\Desktop\UniversityProjects\c# final projects\telikiergasia1\telikiergasia1\obj\Debug\telikiergasia1.exe
+C:\Users\stefa\Desktop\UniversityProjects\c# final projects\telikiergasia1\telikiergasia1\obj\Debug\telikiergasia1.pdb
